@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micael\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj": {}
+    "C:\\Users\\super\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micael\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj": {
+    "C:\\Users\\super\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micael\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\super\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj",
         "projectName": "Estacionamento",
-        "projectPath": "C:\\Users\\Micael\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj",
-        "packagesPath": "C:\\Users\\Micael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micael\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\obj\\",
+        "projectPath": "C:\\Users\\super\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\Estacionamento.csproj",
+        "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\super\\OneDrive\\Programação\\DotNet\\Projetos\\Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Micael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

@@ -26,3 +26,4 @@ C:\Users\Micael\OneDrive\Programação\DotNet\Projetos\Estacionamento\obj\Debug\
 C:\Users\Micael\OneDrive\Programação\DotNet\Projetos\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
 C:\Users\Micael\OneDrive\Programação\DotNet\Projetos\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
 C:\Users\Micael\OneDrive\Programação\DotNet\Projetos\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
+C:\Users\super\OneDrive\Programação\DotNet\Projetos\Estacionamento\obj\Debug\net8.0\Estacionamento.sourcelink.json
